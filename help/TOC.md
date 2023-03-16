@@ -5,7 +5,7 @@ user-guide-description: Découvrez comment tirer le meilleur parti de [!DNL Adob
 source-git-commit: 8d746d38a6bde1470a30706d43fa6567ebba8dff
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 5%
       + [Le [!DNL Marketo Measure] Tableaux de bord ROI](onboarding/marketo-measure-102/roi-dashboards.md)
       + [Rapports Stock Salesforce](onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Rapports Salesforce supplémentaires](onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Entrepôt de données](onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse](onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] et Salesforce{#marketo-measure-salesforce}
       + [Rapport Pistes par ID](onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Création de canaux et de sous-canaux](onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
