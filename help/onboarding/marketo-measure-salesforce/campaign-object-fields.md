@@ -9,9 +9,9 @@ jira: KT-11690
 thumbnail: 347238.jpeg
 exl-id: 72a094c9-2659-4cb2-8c6e-7d9187ef3a03
 feature: Salesforce
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon porte sur les champs d’objet Salesforce CRM Campaign qui [!DNL Marketo Measure] utilise pour mapper les campagnes et les membres de campagne aux canaux marketing. Il est important de comprendre ce que ces objets de campagne font lorsque vous gérez et mappez vos canaux hors ligne dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}
