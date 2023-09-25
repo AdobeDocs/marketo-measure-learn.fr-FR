@@ -2,7 +2,8 @@
 user-guide-title: "[!DNL Marketo Measure] Tutoriels"
 breadcrumb-title: "[!DNL Marketo Measure] Tutoriels"
 user-guide-description: Découvrez comment tirer le meilleur parti de [!DNL Adobe Marketo Measure] (anciennement, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] les fondamentaux et les définitions.
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 6%
@@ -37,7 +38,7 @@ ht-degree: 6%
       + [Points de contact](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [Modèles d’attribution](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
-      + [Le [!DNL Marketo Measure] Tableaux de bord ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [La variable [!DNL Marketo Measure] Tableaux de bord ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Rapports Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Rapports Salesforce supplémentaires](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
