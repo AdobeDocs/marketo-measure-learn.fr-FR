@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] Tutoriels"
 breadcrumb-title: "[!DNL Marketo Measure] Tutoriels"
 user-guide-description: Découvrez comment tirer le meilleur parti de [!DNL Adobe Marketo Measure] (anciennement, [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] les fondamentaux et les définitions.
 auto-video-transcripts: true
-source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
+source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '314'
 ht-degree: 6%
 
 ---
@@ -20,6 +20,18 @@ ht-degree: 6%
    + [Partage et masquage des rapports et des tableaux de bord](/help/installing/sharing-reports-production.md)
    + [Créez le [!DNL Marketo Measure] account](/help/installing/creating-marketo-measure-account-production.md)
 + Intégration{#onboarding}
+   + Meilleures pratiques{#best-practices}
+      + [Vérification des paramètres de création de rapports (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+      + [Vérification des paramètres de canal et d’intégration (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
+      + [Paramètres CRM (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+      + [Paramètres des pistes, contacts et opportunités](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+      + [Configuration des canaux en ligne](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Présentation de la connexion Ads](/help/onboarding/fundamentals/ads-connection-overview.md)
+      + [Présentation de l’installation SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [Configuration de canal hors ligne](/help/onboarding/fundamentals/offline-channel-setup.md)
+      + [Connexion avec Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [Points de contact d’activité](/help/onboarding/fundamentals/activity-touchpoints.md)
+      + [Suppression, segmentation et coût](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + Rôle marketing{#marketing-role}
       + [Pourquoi [!DNL Marketo Measure] pour les CMO et les VP](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [Utilisation [!DNL Marketo Measure] comme CMO ou VP](/help/onboarding/marketing-role/cmo-and-vp-using.md)
@@ -54,6 +66,9 @@ ht-degree: 6%
       + [Attribution des activités](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [Introduction à [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [Déterminer quel canal est performant (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+   + [Déterminer quel canal est performant (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+   + [Rapport Entonnoir de Discover (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + Définitions{#definitions}
    + Points de contact{#touchpoints}
       + [Qu’est-ce qu’un point de contact ?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
