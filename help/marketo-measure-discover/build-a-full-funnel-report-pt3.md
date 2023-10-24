@@ -1,24 +1,24 @@
 ---
 title: Rapport Entonnoir de Discover (Pt.3)
-description: Obtenez une présentation détaillée d’un rapport entonnoir qui vous indique si Marketo Measure effectue le suivi, si vous générez des pistes et si votre canal est correctement configuré.
+description: Dans ce rapport, nous examinons un rapport Entonnoir complet. Ce rapport de Discover effectue le suivi des canaux utilisés, puis attribue des opportunités et/ou des recettes à ces canaux.
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-09-22T00:00:00Z
-jira: KT-14019
-thumbnail: 3424434.jpeg
-exl-id: c7d1b47c-2331-47db-af07-a259cab15fad
-source-git-commit: ee8dd3c468dc6b2b73be48740f6f60079590c527
+last-substantial-update: 2023-10-24T00:00:00Z
+jira: KT-14022
+thumbnail: 3424432.jpeg
+source-git-commit: 2a50f7b839cb2e0fc4c846e38e8ecb04e463bbff
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Rapport Discover Entonnoir
 
-Cette vidéo présente un aperçu d’un rapport entonnoir qui indique si Marketo Measure effectue le suivi, si vous générez des pistes et si votre canal est correctement configuré.
+# Créer un rapport Entonnoir complet
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+Dans ce rapport, nous examinons un rapport Entonnoir complet. Ce rapport de Discover effectue le suivi des canaux utilisés, puis attribue des opportunités et/ou des recettes à ces canaux.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
