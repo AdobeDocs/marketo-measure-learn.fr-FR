@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutoriels"
-breadcrumb-title: "[!DNL Marketo Measure] Tutoriels"
-user-guide-description: Découvrez comment tirer le meilleur parti de  [!DNL Adobe Marketo Measure]  (anciennement,  [!DNL Bizible]). Regardez des tutoriels sur l’installation, l’intégration, les principes de base et les définitions.
+user-guide-title: "[!DNL Marketo Measure] Tutorials"
+breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-description: Découvrez comment tirer le meilleur parti de [!DNL Adobe Marketo Measure] (anciennement, [!DNL Bizible]). Regardez des tutoriels sur l’installation, l’intégration, les principes de base et les définitions.
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 12%
+source-wordcount: '334'
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
    + [Partage et masquage des rapports et des tableaux de bord](/help/installing/sharing-reports-production.md)
    + [Créez le [!DNL Marketo Measure] account](/help/installing/creating-marketo-measure-account-production.md)
 + Intégration{#onboarding}
-   + Meilleures pratiques{#best-practices}
+   + Bonnes pratiques{#best-practices}
       + [Vérification des paramètres de création de rapports (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [Vérification des paramètres de canal et d’intégration (Pt.2)](/help/onboarding/fundamentals/channel-integration-settings.md)
       + [Paramètres CRM (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
@@ -53,7 +53,7 @@ ht-degree: 12%
       + [La variable [!DNL Marketo Measure] Tableaux de bord ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Rapports Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Rapports Salesforce supplémentaires](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Entrepôt de données](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] et Salesforce{#marketo-measure-salesforce}
       + [Rapport Pistes par ID](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Création de canaux et de sous-canaux](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -72,8 +72,6 @@ ht-degree: 12%
    + [Déterminer quel canal est performant (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [Déterminer quel canal est performant (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Rapport Entonnoir de Discover (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] Chat en direct {#live-chat}
-   + [Attribution et mesures marketing](/help/assets/marketing attribution and metrics.md)
 + Définitions{#definitions}
    + Points de contact{#touchpoints}
       + [Qu’est-ce qu’un point de contact ?](/help/definitions/touchpoints/what-is-a-touchpoint.md)
@@ -112,3 +110,5 @@ ht-degree: 12%
    + Boomerang Stage{#boomerang-stage}
       + [Présentation des étapes du boomerang](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [Configuration des phases de boomerang](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ Les conférences évangélistes {#evangelist}
+   + [Attribution et mesures marketing](/help/evangelist-talks/attribution-and-metrics.md)
