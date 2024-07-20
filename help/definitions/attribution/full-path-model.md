@@ -1,5 +1,5 @@
 ---
-title: Modèle en chemin complet
+title: Modèle de chemin complet
 description: Cette vidéo fournit une explication détaillée du modèle de chemin complet.
 role: User
 level: Beginner
@@ -12,11 +12,11 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 20%
+ht-degree: 0%
 
 ---
 
-# Modèle en chemin complet
+# Modèle de chemin complet
 
 Cette vidéo fournit une explication détaillée du modèle de chemin complet.
 

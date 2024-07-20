@@ -1,6 +1,6 @@
 ---
-title: Utilisation [!DNL Marketo Measure] as a Content Marketer
-description: Cette leçon offre une démonstration rapide de l’utilisation que peuvent faire les spécialistes du marketing de contenu [!DNL Marketo Measure] dans leur rôle professionnel.
+title: Utilisation de [!DNL Marketo Measure] comme spécialiste marketing de contenu
+description: Cette leçon fournit une démonstration rapide de l’utilisation possible de  [!DNL Marketo Measure] par les marketeurs de contenu dans leur rôle de tâche.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Utilisation [!DNL Marketo Measure] as a Content Marketer
+# Utilisation de [!DNL Marketo Measure] comme marketeur de contenu
 
-Cette leçon offre une démonstration rapide de l’utilisation que peuvent faire les spécialistes du marketing de contenu [!DNL Marketo Measure] dans leur rôle professionnel.
+Cette leçon fournit une démonstration rapide de la manière dont les marketeurs de contenu peuvent utiliser [!DNL Marketo Measure] dans leur rôle de tâche.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}

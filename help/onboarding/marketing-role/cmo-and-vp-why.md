@@ -1,6 +1,6 @@
 ---
 title: Pourquoi [!DNL Marketo Measure] pour les CMO et les VP
-description: 'Cette leçon résume : [!DNL Marketo Measure]Fonctionnalités clés et valeur pour les CMO et d’autres dirigeants marketing chevronnés.'
+description: Cette leçon résume les fonctionnalités clés et la valeur de [!DNL Marketo Measure] pour les CMO et d’autres responsables marketing principaux.
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Pourquoi [!DNL Marketo Measure] pour les CMO et les VP
 
-Cette leçon résume : [!DNL Marketo Measure]Fonctionnalités clés et valeur pour les CMO et d’autres dirigeants marketing chevronnés.
+Cette leçon résume les fonctionnalités clés et la valeur de [!DNL Marketo Measure] pour les CMO et d’autres responsables marketing principaux.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

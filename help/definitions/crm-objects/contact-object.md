@@ -1,6 +1,6 @@
 ---
 title: Objet Contact
-description: Vérifiez la répartition de la relation entre l’objet contact et la variable [!DNL Marketo Measure] Objet point de contact et [!DNL Marketo Measure] Objet point de contact d’attribution.
+description: Regardez une ventilation de la relation entre l’objet contact et l’objet point de contact  [!DNL Marketo Measure] et l’objet point de contact d’ [!DNL Marketo Measure] Attribution.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Contact Object
 
-Cette vidéo présente la relation entre l’objet de contact et le [!DNL Marketo Measure] Objet point de contact et [!DNL Marketo Measure] Objet point de contact d’attribution.
+Cette vidéo décrit la relation entre l’objet contact et l’objet point de contact [!DNL Marketo Measure] et l’objet point de contact d’attribution [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}

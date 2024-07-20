@@ -1,6 +1,6 @@
 ---
-title: La variable [!DNL Marketo Measure] Tableaux de bord ROI
-description: Cette leçon présente un aperçu des tableaux de bord configurables disponibles dans [!DNL Marketo Measure].
+title: Tableaux de bord  [!DNL Marketo Measure] ROI
+description: Cette leçon présente un aperçu des tableaux de bord configurables disponibles dans  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# La variable [!DNL Marketo Measure] Tableaux de bord ROI
+# Tableaux de bord du retour sur investissement [!DNL Marketo Measure]
 
 Cette leçon présente un aperçu des tableaux de bord configurables disponibles dans [!DNL Marketo Measure].
 

@@ -12,11 +12,11 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 63%
+ht-degree: 31%
 
 ---
 
-# [!DNL Marketo Measure] installation (instance de production)
+# Installation de [!DNL Marketo Measure] (instance de production)
 
 Découvrez comment installer une instance de production de [!DNL Marketo Measure].
 

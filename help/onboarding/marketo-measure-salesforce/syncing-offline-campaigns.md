@@ -1,6 +1,6 @@
 ---
 title: Synchronisation des campagnes hors ligne
-description: Cette leçon explique comment synchroniser les campagnes CRM Salesforce avec [!DNL Marketo Measure] - individuellement ou en bloc.
+description: Cette leçon explique comment synchroniser les campagnes CRM Salesforce avec [!DNL Marketo Measure]  - individuellement ou en bloc.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 16%
 
 # Synchronisation des campagnes hors ligne
 
-Cette leçon explique comment synchroniser les campagnes CRM Salesforce avec [!DNL Marketo Measure] - individuellement ou en bloc.
+Cette leçon explique comment synchroniser les campagnes CRM Salesforce avec [!DNL Marketo Measure], individuellement ou en bloc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}

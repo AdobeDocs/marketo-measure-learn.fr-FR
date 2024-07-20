@@ -1,6 +1,6 @@
 ---
 title: Modification des jeux d’autorisations (instance de production)
-description: Découvrez comment modifier des jeux d’autorisations dans [!DNL Marketo Measure] (instance de production).
+description: Découvrez comment modifier les jeux d’autorisations dans  [!DNL Marketo Measure]  (instance de production).
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Modification des jeux d’autorisations (instance de production)
 
-Découvrez comment modifier des jeux d’autorisations dans [!DNL Marketo Measure] (instance de production).
+Découvrez comment modifier les jeux d’autorisations dans [!DNL Marketo Measure] (instance de production).
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

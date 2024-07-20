@@ -8,12 +8,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
-# Attribution des activités 
+# Attribution des activités
 
-Cette leçon couvre [!UICONTROL Attribution des activités]. Cette fonctionnalité vous permet de créer des points de contact à partir de l’objet d’activités dans Salesforce par le biais d’enregistrements de tâche ou d’événement.
+Cette leçon porte sur l’ [!UICONTROL attribution des activités]. Cette fonctionnalité vous permet de créer des points de contact à partir de l’objet d’activités dans Salesforce par le biais d’enregistrements de tâche ou d’événement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}

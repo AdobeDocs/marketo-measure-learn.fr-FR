@@ -1,6 +1,6 @@
 ---
 title: Composants de point de contact
-description: Obtenez une ventilation des différents composants des points de contact et de leur définition. Cet exemple casse les composants des BAT et des BAT.
+description: Obtenez une ventilation des différents composants des points de contact et de leur définition. Cet exemple casse les composants de BT et de BAT.
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11324
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Composants de point de contact
 
-Obtenez une ventilation des différents composants des points de contact et de leur définition. Cet exemple casse les composants des BAT et des BAT.
+Obtenez une ventilation des différents composants des points de contact et de leur définition. Cet exemple casse les composants de BT et de BAT.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}

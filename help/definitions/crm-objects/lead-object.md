@@ -1,6 +1,6 @@
 ---
 title: Objet de piste
-description: Afficher une ventilation de la relation entre l’objet de piste et la variable [!DNL Marketo Measure] Objet point de contact.
+description: Regardez une ventilation de la relation entre l’objet de piste et l’objet de point de contact  [!DNL Marketo Measure] .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objet de piste
 
-Afficher une ventilation de la relation entre l’objet de piste et la variable [!DNL Marketo Measure] Objet point de contact.
+Regardez une ventilation de la relation entre l’objet de piste et l’objet de point de contact [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

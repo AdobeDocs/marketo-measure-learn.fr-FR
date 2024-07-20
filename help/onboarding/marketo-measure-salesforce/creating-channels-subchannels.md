@@ -1,6 +1,6 @@
 ---
 title: Création de canaux et de sous-canaux
-description: Cette leçon explique comment créer et gérer des hiérarchies et des noms de canal et de sous-canal dans [!DNL Marketo Measure].
+description: Cette leçon explique comment créer et gérer des hiérarchies et des noms de canal et de sous-canal dans  [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video

@@ -1,5 +1,5 @@
 ---
-title: Présentation [!DNL Marketo Measure]
+title: Qu’est-ce que  [!DNL Marketo Measure]
 description: Cette leçon présente brièvement ce que fait Marketo Measure et pourquoi.
 role: User
 level: Beginner

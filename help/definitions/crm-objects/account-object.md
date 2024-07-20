@@ -1,6 +1,6 @@
 ---
 title: Objet du compte
-description: En savoir plus sur la relation entre [!DNL Marketo Measure] et l’objet de compte.
+description: Découvrez la relation entre [!DNL Marketo Measure] et l’objet de compte.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Objet du compte
 
-En savoir plus sur la relation entre [!DNL Marketo Measure] et l’objet de compte.
+Découvrez la relation entre [!DNL Marketo Measure] et l’objet de compte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: Configuration de règles de canal avec un fichier CSV
-description: Cette leçon décrit la configuration [!DNL Marketo Measure] règles de canal à l’aide d’un fichier CSV.
+description: Cette leçon explique comment configurer des règles de canal  [!DNL Marketo Measure] à l’aide d’un fichier CSV.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Configuration de règles de canal avec un fichier CSV
 
-Cette leçon décrit la configuration [!DNL Marketo Measure] règles de canal à l’aide d’un fichier CSV.
+Cette leçon décrit la configuration de [!DNL Marketo Measure] règles de canal à l’aide d’un fichier CSV.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

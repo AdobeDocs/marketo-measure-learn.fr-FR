@@ -1,6 +1,6 @@
 ---
 title: Pourquoi [!DNL Marketo Measure] pour le marketing par e-mail
-description: 'Cette leçon résume : [!DNL Marketo Measure]Fonctionnalités clés et valeur de pour les spécialistes du marketing par e-mail.'
+description: Cette leçon résume les fonctionnalités clés et la valeur de [!DNL Marketo Measure] pour les spécialistes du marketing par e-mail.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,13 +12,13 @@ feature: Fundamentals
 hidefromtoc: true
 source-git-commit: ade1c08ff54952f7a19711d5bf0aaf5694e545a4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
 # Pourquoi [!DNL Marketo Measure] pour le marketing par e-mail
 
-Cette leçon résume : [!DNL Marketo Measure]Fonctionnalités clés et valeur de pour les spécialistes du marketing par e-mail.
+Cette leçon résume les fonctionnalités clés et la valeur de [!DNL Marketo Measure] pour les spécialistes du marketing par e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

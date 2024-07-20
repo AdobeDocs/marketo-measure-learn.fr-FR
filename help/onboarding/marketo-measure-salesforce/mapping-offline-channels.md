@@ -1,6 +1,6 @@
 ---
 title: Mappage des canaux hors ligne
-description: Cette leçon porte sur le mappage des canaux hors ligne sur [!DNL Marketo Measure] avec l’objet Campagne Salesforce et le champ Types de campagne.
+description: Cette leçon porte sur le mappage des canaux hors ligne à  [!DNL Marketo Measure] avec l’objet Campagne Salesforce et le champ Types de campagne.
 role: User
 level: Beginner
 doc-type: Feature Video

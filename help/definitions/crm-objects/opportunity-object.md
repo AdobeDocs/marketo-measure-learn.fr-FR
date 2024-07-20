@@ -1,6 +1,6 @@
 ---
 title: Objet d’opportunité
-description: Découverte de la relation entre [!DNL Marketo Measure] et l’objet Opportunity .
+description: Regardez une ventilation de la relation entre [!DNL Marketo Measure] et l’objet Opportunity .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objet d’opportunité
 
-Découverte de la relation entre [!DNL Marketo Measure] et l’objet Opportunity .
+Regardez une ventilation de la relation entre [!DNL Marketo Measure] et l’objet Opportunity .
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

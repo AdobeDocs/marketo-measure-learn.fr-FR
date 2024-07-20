@@ -1,6 +1,6 @@
 ---
 title: Objets CRM
-description: Regardez la ventilation des relations entre les objets CRM standard et [!DNL Marketo Measure] des objets et des champs personnalisés.
+description: Regardez une ventilation de la relation entre les objets CRM standard et les objets et champs personnalisés  [!DNL Marketo Measure] .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Objets CRM
 
-Regardez la ventilation des relations entre les objets CRM standard et [!DNL Marketo Measure] des objets et des champs personnalisés.
+Regardez une ventilation de la relation entre les objets CRM standard et [!DNL Marketo Measure] objets et champs personnalisés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}

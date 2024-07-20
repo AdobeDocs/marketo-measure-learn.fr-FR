@@ -1,6 +1,6 @@
 ---
 title: Rapports Stock Salesforce
-description: Cette leçon porte sur les rapports de gestion de la relation client Salesforce standard et préconfigurés, ainsi que sur les objets de données inclus dans [!DNL Marketo Measure].
+description: Cette leçon porte sur les rapports CRM Salesforce standard préconfigurés et les objets de données inclus dans [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Rapports Stock Salesforce
 
-Cette leçon porte sur les rapports de gestion de la relation client Salesforce standard et préconfigurés, ainsi que sur les objets de données inclus dans [!DNL Marketo Measure].
+Cette leçon porte sur les rapports CRM Salesforce standard préconfigurés et les objets de données inclus dans [!DNL Marketo Measure].
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

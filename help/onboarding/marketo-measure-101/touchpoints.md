@@ -1,6 +1,6 @@
 ---
 title: Points de contact
-description: Cette leçon décrit les points de contact qui se trouvent dans [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] objet de données, y compris [!DNL Marketo Measure] Points de contact (BT) et [!DNL Marketo Measure] Les points de contact d’attribution (BAT) sont introduits.
+description: Cette leçon décrit les points de contact se trouvant dans les objets de données  [!DNL Marketo Measure], how they are created, and how they are used for attribution. [!DNL Marketo Measure] y compris [!DNL Marketo Measure] Touchpoints (BT) et [!DNL Marketo Measure] Attribution Touchpoints (BAT) introduits.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 3%
 
 # Points de contact
 
-Cette leçon décrit les points de contact qui se trouvent dans [!DNL Marketo Measure], comment ils sont créés et comment ils sont utilisés pour l’attribution. [!DNL Marketo Measure] objet de données, y compris [!DNL Marketo Measure] Points de contact (BT) et [!DNL Marketo Measure] Les points de contact d’attribution (BAT) sont introduits.
+Cette leçon décrit les points de contact de [!DNL Marketo Measure], leur création et leur utilisation pour l’attribution. [!DNL Marketo Measure] objets de données, y compris [!DNL Marketo Measure] points de contact (BT) et [!DNL Marketo Measure] points de contact d’attribution (BAT) sont introduits.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347246/?learn=on){transcript=true}

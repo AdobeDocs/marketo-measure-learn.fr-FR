@@ -1,6 +1,6 @@
 ---
-title: Présentation de [!DNL Marketo Measure] taxonomie
-description: Regardez une vue d’ensemble de la manière dont [!DNL Marketo Measure] collecte et traite des données à l’aide de diverses entrées afin de fournir des données d’attribution.
+title: Présentation de la taxonomie  [!DNL Marketo Measure]
+description: Regardez un aperçu de la manière dont  [!DNL Marketo Measure] collecte et traite les données à l’aide de diverses entrées pour fournir des données d’attribution.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Présentation de [!DNL Marketo Measure] taxonomie
+# Présentation de la taxonomie [!DNL Marketo Measure]
 
-Obtention d’une présentation de la méthode [!DNL Marketo Measure] collecte et traite des données à l’aide de diverses entrées afin de fournir des données d’attribution.
+Obtenez un aperçu de la manière dont [!DNL Marketo Measure] collecte et traite les données à l’aide de diverses entrées afin de fournir des données d’attribution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

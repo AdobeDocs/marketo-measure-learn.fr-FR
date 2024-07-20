@@ -1,6 +1,6 @@
 ---
 title: Modèles d’attribution
-description: Cette leçon définit les modèles d’attribution, explique les différents modèles inclus dans [!DNL Marketo Measure]et quand utiliser chacune d’elles.  Les modèles standard basés sur des règles, les modèles personnalisés et les recommandations AI/ML sont décrits.
+description: Cette leçon définit les modèles d’attribution, explique les différents modèles inclus dans [!DNL Marketo Measure] et quand les utiliser.  Les modèles standard basés sur des règles, les modèles personnalisés et les recommandations AI/ML sont décrits.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 6%
+ht-degree: 0%
 
 ---
 
-# Modèles d’attribution 
+# Modèles d’attribution
 
-Cette leçon définit les modèles d’attribution, explique les différents modèles inclus dans [!DNL Marketo Measure]et quand utiliser chacune d’elles.  Les modèles standard basés sur des règles, les modèles personnalisés et les recommandations AI/ML sont décrits.
+Cette leçon définit les modèles d’attribution, explique les différents modèles inclus dans [!DNL Marketo Measure] et quand les utiliser.  Les modèles standard basés sur des règles, les modèles personnalisés et les recommandations AI/ML sont décrits.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}

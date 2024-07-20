@@ -1,6 +1,6 @@
 ---
 title: Rapport Comptes avec Leads et contacts
-description: En savoir plus sur les [!UICONTROL Contacts de compte et Leads] le rapport avec les informations sur et sur la manière dont il connecte ces objets.
+description: Découvrez le rapport [!UICONTROL  Contacts de compte et Leads] ainsi que les informations relatives aux deux objets et comment ils se connectent.
 jira: KT-11239
 thumbnail: 347220.jpeg
 exl-id: dc27ad9a-dd09-4662-8dfd-cb237d66c893
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Contacts de compte et Leads] rapport
+# Rapport [!UICONTROL Contacts de compte et Leads]
 
-Ce tutoriel explique le [!UICONTROL Contacts de compte et Leads] le rapport avec les informations sur et sur la manière dont il connecte ces objets.
+Ce tutoriel explique le rapport [!UICONTROL Contacts de compte et de pistes] ainsi que les informations relatives à ces deux objets et la manière dont ils sont connectés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}
