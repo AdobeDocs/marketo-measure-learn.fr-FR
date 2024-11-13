@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: Découvrez comment tirer le meilleur parti de [!DNL Adobe Marketo Measure] (anciennement, [!DNL Bizible]). Regardez des tutoriels sur l’installation, l’intégration, les principes de base et les définitions.
 auto-video-transcripts: true
-source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
+source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 4%
+source-wordcount: '365'
+ht-degree: 5%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 4%
 # Tutoriels [!DNL Marketo Measure] {#tutorials}
 
 + [Tutoriels [!DNL Marketo Measure]](overview.md)
++ [Présentation de Marketo Measure](/help/marketo-measure-overview.md)
 + Installation de Marketo Measure {#install}
    + [Installation de Marketo Measure](/help/installing/install-production.md)
    + [Modification des jeux d’autorisations](/help/installing/modify-permission-sets-production.md)
@@ -27,7 +28,7 @@ ht-degree: 4%
       + [Paramètres des pistes, contacts et opportunités](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
       + [Configuration des canaux en ligne](/help/onboarding/fundamentals/online-channel-setup.md)
       + [Présentation de la connexion Ads](/help/onboarding/fundamentals/ads-connection-overview.md)
-      + [Présentation de l’installation SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [Présentation de l’installation de SFDC](/help/onboarding/fundamentals/sfdc-installation-overview.md)
       + [Configuration de canal hors ligne](/help/onboarding/fundamentals/offline-channel-setup.md)
       + [Connexion avec Marketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [Points de contact d’activité](/help/onboarding/fundamentals/activity-touchpoints.md)
@@ -51,7 +52,7 @@ ht-degree: 4%
       + [Modèles d’attribution](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
       + [Tableaux de bord  [!DNL Marketo Measure] ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
-      + [Rapports Stock Salesforce](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
+      + [Rapports Salesforce Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Rapports Salesforce supplémentaires](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse ](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] et Salesforce{#marketo-measure-salesforce}
