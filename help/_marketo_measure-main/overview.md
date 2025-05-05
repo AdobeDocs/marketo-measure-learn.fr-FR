@@ -26,5 +26,5 @@ Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les foncti
 
 ## Événements en direct des Experience League
 
-* **[Marketo Measure de nouveaux tableaux de bord Discover](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Marketo Measure de nouveaux tableaux de bord Discover](https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *Découvrez les nouveaux tableaux de bord Discover entièrement reconçus.*

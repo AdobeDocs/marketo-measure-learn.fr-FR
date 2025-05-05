@@ -119,4 +119,4 @@ ht-degree: 5%
    + [Degré d’attribution marketing](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [Attribution marketing et silos de données](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Enregistrements dynamiques Experience League{#experience-league-live-recordings}
-   + [Marketo Measure de nouveaux tableaux de bord Discover](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measure de nouveaux tableaux de bord Discover](https://experienceleague.adobe.com/fr/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
