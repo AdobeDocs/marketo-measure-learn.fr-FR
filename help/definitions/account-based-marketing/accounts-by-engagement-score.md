@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  Comptes par score d’engagement ]
+# [!UICONTROL &#x200B; Comptes par score d’engagement &#x200B;]
 
 Présentation de haut niveau du [!UICONTROL compte par score d’engagement].  Ce tutoriel explique les mesures qui entrent dans ce score et le rapport qui y est associé.
 

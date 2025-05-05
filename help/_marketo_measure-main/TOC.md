@@ -105,8 +105,8 @@ ht-degree: 5%
       + [Balisage UTM](/help/definitions/utm-parameters/utm-tagging.md)
    + Marketing basé sur les comptes {#account-based-marketing}
       + [[!UICONTROL Présentation du marketing basé sur les comptes]](/help/definitions/account-based-marketing/abm-overview.md)
-      + [[!UICONTROL  Comptes par score d’engagement ]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL  Rapport Comptes avec Leads et contacts]](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL &#x200B; Comptes par score d’engagement &#x200B;]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
+      + [[!UICONTROL &#x200B; Rapport Comptes avec Leads et contacts]](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [Rapport [!UICONTROL Points de contact par compte]](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + Intermédiaire Boomerang {#boomerang-stage}
       + [Présentation des étapes du boomerang](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
