@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez une brève discussion sur quelques outils de génération de l&#39;UTM.
 
->[!VIDEO](https://video.tv.adobe.com/v/347201/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422306/?learn=on&captions=fre_fr){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Découvrez les canaux en ligne, la création de canaux et la feuille de calcul du canal en ligne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454143/?learn=on&captions=fre_fr){transcript=true}

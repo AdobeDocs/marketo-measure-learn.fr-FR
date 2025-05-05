@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ce rapport se concentre sur la partie supérieure à intermédiaire de l’entonnoir marketing. Une fois le rapport créé, vous pourrez déterminer les canaux qui génèrent le plus d’opportunités afin d’investir dans ces canaux marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443742/?learn=on&captions=fre_fr)

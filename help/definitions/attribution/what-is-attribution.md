@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez l’attribution et pourquoi elle est utile.
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421794/?learn=on&captions=fre_fr){transcript=true}

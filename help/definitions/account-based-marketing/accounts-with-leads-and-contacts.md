@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Ce tutoriel explique le rapport [!UICONTROL Contacts de compte et de pistes] ainsi que les informations relatives à ces deux objets et la manière dont ils sont connectés.
 
->[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422322/?learn=on&captions=fre_fr){transcript=true}

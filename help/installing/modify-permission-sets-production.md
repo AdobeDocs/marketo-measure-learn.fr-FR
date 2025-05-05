@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment modifier les jeux d’autorisations dans [!DNL Marketo Measure] (instance de production).
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421331/?learn=on&captions=fre_fr){transcript=true}

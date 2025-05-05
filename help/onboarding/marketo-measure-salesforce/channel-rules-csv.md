@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon décrit la configuration de [!DNL Marketo Measure] règles de canal à l’aide d’un fichier CSV.
 
->[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421391/?learn=on&captions=fre_fr){transcript=true}

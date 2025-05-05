@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette vidéo fournit une explication détaillée du modèle de création de pistes.
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421367/?learn=on&captions=fre_fr){transcript=true}

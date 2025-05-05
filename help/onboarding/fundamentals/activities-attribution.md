@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Cette leçon porte sur l’ [!UICONTROL attribution des activités]. Cette fonctionnalité vous permet de créer des points de contact à partir de l’objet d’activités dans Salesforce par le biais d’enregistrements de tâche ou d’événement.
 
->[!VIDEO](https://video.tv.adobe.com/v/347192/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422318/?learn=on&captions=fre_fr){transcript=true}

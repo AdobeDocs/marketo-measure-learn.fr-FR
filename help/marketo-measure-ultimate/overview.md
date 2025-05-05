@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment Marketo Measure Ultimate permet aux spécialistes du marketing B2B de collecter des données à partir de pratiquement n’importe quelle source, y compris plusieurs sources du même type, pour une attribution approfondie. Les marketeurs B2B ont ainsi accès à des analyses et informations avancées pour améliorer leurs stratégies marketing et stimuler la croissance de leurs activités.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446466/?learn=on&captions=fre_fr)

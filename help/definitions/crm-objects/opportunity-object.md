@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez une ventilation de la relation entre [!DNL Marketo Measure] et l’objet Opportunity .
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421954/?learn=on&captions=fre_fr){transcript=true}

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Andy Schneider, conseiller en solutions d’Adobe, et Ian Michels, évangéliste d’Adobe Marketo, discutent de la différence entre l’attribution marketing et les mesures marketing. Il existe des logiciels de reporting sur le marché qui indiquent qu’ils effectuent une attribution, mais en réalité, ils signalent des mesures marketing. Au cours de cette discussion, vous découvrirez les questions à poser lors du processus de vente, comment déchiffrer les logiciels qui sont spécifiques à une attribution ou à une mesure marketing et comment adapter vos besoins d’attribution marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425898/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455501/?learn=on&captions=fre_fr)
 
 ## Points clés de la discussion
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon présente un aperçu des sources de données [!DNL Marketo Measure] qui incluent [!DNL Marketo Measure] JavaScript, des intégrations d’API, des paramètres UTM, des données CRM et des données entrées manuellement.
 
->[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421948/?learn=on&captions=fre_fr){transcript=true}

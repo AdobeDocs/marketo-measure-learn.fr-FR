@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon fournit une démonstration rapide de la manière dont les CMO et d’autres responsables marketing expérimentés peuvent utiliser [!DNL Marketo Measure] dans leur rôle de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422252/?learn=on&captions=fre_fr){transcript=true}

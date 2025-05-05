@@ -16,4 +16,4 @@ ht-degree: 6%
 
 Regardez la deuxième leçon de la série de cours Boomerang. Veuillez prendre la première leçon avant de regarder celle-ci. Cette section décrit la configuration de [!UICONTROL Boomerang Stages] dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431593/?learn=on&captions=fre_fr){transcript=true}

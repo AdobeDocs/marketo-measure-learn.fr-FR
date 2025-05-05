@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez une ventilation de la relation entre l’objet de piste et l’objet de point de contact [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422217/?learn=on&captions=fre_fr){transcript=true}

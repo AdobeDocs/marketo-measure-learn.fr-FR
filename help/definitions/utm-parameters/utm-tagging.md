@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez un tutoriel sur ce qu’est une gestion dynamique des balises et comment elles fonctionnent avec [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347204/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422310/?learn=on&captions=fre_fr){transcript=true}

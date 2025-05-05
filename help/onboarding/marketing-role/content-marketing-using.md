@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon fournit une démonstration rapide de la manière dont les marketeurs de contenu peuvent utiliser [!DNL Marketo Measure] dans leur rôle de tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422354/?learn=on&captions=fre_fr){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenez une ventilation des différents composants des points de contact et de leur définition. Cet exemple casse les composants de BT et de BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437614/?learn=on&captions=fre_fr){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez une vue d’ensemble de ce qu’est une gestion dynamique des balises et de la manière dont ils sont configurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/347199/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422338/?learn=on&captions=fre_fr){transcript=true}

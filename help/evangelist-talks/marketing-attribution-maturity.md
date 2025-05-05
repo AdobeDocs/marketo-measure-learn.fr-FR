@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Andy Schneider, conseiller en solutions d’Adobe (Marketo Measure), et Ian Michels, évangéliste d’Adobe Marketo, discutent avec les clients de la manière dont leurs conversations sur l’attribution marketing et leurs expériences. Cette discussion porte sur la manière dont les équipes MOP passent d’un compte rendu des performances sans attribution à la manière dont les entreprises Fortune 100 utilisent Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456511/?learn=on&captions=fre_fr)

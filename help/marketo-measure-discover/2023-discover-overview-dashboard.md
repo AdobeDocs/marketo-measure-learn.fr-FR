@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Le tableau de bord Aperçu des recettes fournit des informations sur les recettes totales dérivées de votre gestion de la relation client, en mettant en lumière le rôle de vos stratégies marketing. Il offre un aperçu de la manière dont le marketing influence vos recettes globales et contribue à la conclusion réussie des offres.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446355/?learn=on&captions=fre_fr){transcript=true}

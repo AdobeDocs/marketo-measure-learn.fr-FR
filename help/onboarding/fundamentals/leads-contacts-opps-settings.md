@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Vérification des paramètres CRM Leads, contacts et opportunités.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453721/?learn=on&captions=fre_fr){transcript=true}

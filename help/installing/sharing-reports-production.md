@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon porte sur l’affichage et le partage des rapports et des tableaux de bord.
 
->[!VIDEO](https://video.tv.adobe.com/v/347184/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431544/?learn=on&captions=fre_fr){transcript=true}

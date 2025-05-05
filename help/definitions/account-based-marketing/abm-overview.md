@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Ce tutoriel présente brièvement ABM, y compris une définition de ABM et ce qui constitue la note d’engagement prédictif. Découvrez comment réfléchir au score d’engagement prédictif.
 
->[!VIDEO](https://video.tv.adobe.com/v/347217/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422327/?learn=on&captions=fre_fr){transcript=true}

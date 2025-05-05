@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon présente un aperçu des tableaux de bord configurables disponibles dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421991/?learn=on&captions=fre_fr){transcript=true}

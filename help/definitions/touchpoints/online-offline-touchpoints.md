@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez la différence entre les points de contact en ligne et les points de contact hors ligne et comment ils sont créés.
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421800/?learn=on&captions=fre_fr){transcript=true}

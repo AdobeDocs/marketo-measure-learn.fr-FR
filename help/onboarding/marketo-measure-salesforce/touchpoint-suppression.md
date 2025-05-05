@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon explique comment configurer des règles de suppression des points de contact dans Salesforce CRM et les raisons courantes de cette pratique.
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421379/?learn=on&captions=fre_fr){transcript=true}

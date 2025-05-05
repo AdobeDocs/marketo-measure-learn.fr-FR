@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez la première leçon de la série de cours Boomerang. Découvrez comment configurer les [!UICONTROL phases Boomerang] dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431579/?learn=on&captions=fre_fr){transcript=true}

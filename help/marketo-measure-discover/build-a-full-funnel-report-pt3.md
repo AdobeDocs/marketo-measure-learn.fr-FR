@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dans ce rapport, nous examinons un rapport Entonnoir complet. Ce rapport de Discover effectue le suivi des canaux utilisés, puis attribue des opportunités et/ou des recettes à ces canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443753/?learn=on&captions=fre_fr){transcript=true}

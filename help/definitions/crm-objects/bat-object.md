@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez [!DNL Marketo Measure] [!UICONTROL Points de contact d’attribution].
 
->[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422229/?learn=on&captions=fre_fr){transcript=true}

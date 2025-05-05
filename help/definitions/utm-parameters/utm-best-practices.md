@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Découvrez les meilleures pratiques de l’UTM [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347203/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422302/?learn=on&captions=fre_fr){transcript=true}

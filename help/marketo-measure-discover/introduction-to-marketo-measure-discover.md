@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez un aperçu général de [!UICONTROL Discover] et de ses différents panoramas. Dans cette leçon, découvrez les cas d’utilisation de rapports courants pour plusieurs tableaux de bord et mosaïques de Discover .
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422342/?learn=on&captions=fre_fr){transcript=true}

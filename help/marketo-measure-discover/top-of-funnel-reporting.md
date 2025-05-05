@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Cette vidéo passe en revue un rapport entonnoir qui vous indique si, si, si, si, si, si, vous générez des pistes, et si votre configuration de canal a été effectuée correctement, Marketo Measure effectue le suivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441782/?learn=on&captions=fre_fr){transcript=true}

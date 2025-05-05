@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez les principaux jalons de [!DNL Marketo Measure] et comment ils sont créés.
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421806/?learn=on&captions=fre_fr){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Présentation des paramètres de création de rapports dans Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453710/?learn=on&captions=fre_fr){transcript=true}

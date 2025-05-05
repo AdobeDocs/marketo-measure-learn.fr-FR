@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon offre une démonstration rapide de l’utilisation possible de [!DNL Marketo Measure] par les équipes Gen de demande et Média payant dans leur rôle de tâche.
 
->[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422205/?learn=on&captions=fre_fr){transcript=true}

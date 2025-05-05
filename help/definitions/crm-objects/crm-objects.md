@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez une ventilation de la relation entre les objets CRM standard et [!DNL Marketo Measure] objets et champs personnalisés.
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422221/?learn=on&captions=fre_fr){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Présentation de haut niveau du [!UICONTROL compte par score d’engagement].  Ce tutoriel explique les mesures qui entrent dans ce score et le rapport qui y est associé.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432133/?learn=on&captions=fre_fr){transcript=true}

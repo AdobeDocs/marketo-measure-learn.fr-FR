@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Guide de configuration de canal hors ligne Marketo Measure
 
->[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454615/?learn=on&captions=fre_fr){transcript=true}

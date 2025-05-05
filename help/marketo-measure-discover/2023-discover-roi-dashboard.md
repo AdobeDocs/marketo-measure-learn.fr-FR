@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Le tableau de bord du ROI offre aux marketeurs une vue granulaire des retours sur investissement sur les canaux, sous-canaux et campagnes. Il ventile méticuleusement les schémas de coûts et de recettes, tout en mettant en avant des mesures telles que le coût par prospect, l’offre et les opportunités, afin d’assurer une compréhension complète de l’attribution marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449466/?learn=on&captions=fre_fr){transcript=true}

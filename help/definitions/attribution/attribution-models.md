@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenez un aperçu des modèles d’attribution prêts à l’emploi dans [!DNL Marketo Measure]. Découvrez la différence entre les modèles tactiles uniques et les modèles tactiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421788/?learn=on&captions=fre_fr){transcript=true}

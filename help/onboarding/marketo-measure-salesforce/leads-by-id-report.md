@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon décrit un rapport d’ID de piste dans le CRM Salesforce
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421928/?learn=on&captions=fre_fr){transcript=true}

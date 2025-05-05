@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon explique comment créer et gérer des hiérarchies et des noms de canal et de sous-canal dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421397/?learn=on&captions=fre_fr){transcript=true}
