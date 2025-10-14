@@ -19,7 +19,7 @@ ht-degree: 5%
    + [Installation de Marketo Measure](/help/installing/install-production.md)
    + [Modification des jeux d’autorisations](/help/installing/modify-permission-sets-production.md)
    + [Partage et masquage des rapports et des tableaux de bord](/help/installing/sharing-reports-production.md)
-   + [Création du compte  [!DNL Marketo Measure] ](/help/installing/creating-marketo-measure-account-production.md)
+   + [Création du compte  [!DNL Marketo Measure] &#x200B;](/help/installing/creating-marketo-measure-account-production.md)
 + Intégration {#onboarding}
    + Bonnes pratiques {#best-practices}
       + [Vérification des paramètres de création de rapports (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -54,7 +54,7 @@ ht-degree: 5%
       + [Tableaux de bord  [!DNL Marketo Measure] ROI](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Rapports Salesforce Stock](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [Rapports Salesforce supplémentaires](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse ](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse &#x200B;](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] et Salesforce{#marketo-measure-salesforce}
       + [Rapport Pistes par ID](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [Création de canaux et de sous-canaux](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -88,7 +88,7 @@ ht-degree: 5%
       + [Modèle en forme de W](/help/definitions/attribution/w-shaped-model.md)
       + [Modèle de chemin complet](/help/definitions/attribution/full-path-model.md)
    + Objets CRM {#crm-objects}
-      + [Présentation de la taxonomie  [!DNL Marketo Measure] ](/help/definitions/crm-objects/taxonomy-overview.md)
+      + [Présentation de la taxonomie  [!DNL Marketo Measure] &#x200B;](/help/definitions/crm-objects/taxonomy-overview.md)
       + [Objets CRM](/help/definitions/crm-objects/crm-objects.md)
       + [Objet de piste](/help/definitions/crm-objects/lead-object.md)
       + [Objet Contact](/help/definitions/crm-objects/contact-object.md)
@@ -97,7 +97,7 @@ ht-degree: 5%
       + [Objet BAT](/help/definitions/crm-objects/bat-object.md)
       + [Personne Marketo Measure](/help/definitions/crm-objects/marketo-measure-person.md)
    + Paramètres UTM {#utm-parameters}
-      + [Fonctionnement du balisage [!DNL Marketo Measure] ](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
+      + [Fonctionnement du balisage [!DNL Marketo Measure] &#x200B;](/help/definitions/utm-parameters/how-marketo-measure-tagging-works.md)
       + [Connexion de plateformes intégrées à [!DNL Marketo Measure]](/help/definitions/utm-parameters/connecting-integrated-platforms-with-marketo-measure.md)
       + [Anatomie d’un paramètre UTM](/help/definitions/utm-parameters/anatomy-of-a-utm-parameter.md)
       + [Bonnes pratiques relatives à UTM](/help/definitions/utm-parameters/utm-best-practices.md)
