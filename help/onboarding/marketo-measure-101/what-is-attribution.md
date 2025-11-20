@@ -1,5 +1,5 @@
 ---
-title: Présentation de l’attribution
+title: Qu’est-ce que l’attribution
 description: Cette leçon fournit une définition de l’attribution, une comparaison des méthodes d’attribution à une seule touche et à plusieurs touches et une comparaison de l’attribution entre les entreprises B2C et B2B.
 short-description: Cette leçon compare les méthodes d’attribution à une seule touche et à plusieurs touches et compare l’attribution entre les entreprises B2C et B2B.
 role: User
@@ -12,13 +12,13 @@ exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 89%
+source-wordcount: '72'
+ht-degree: 91%
 
 ---
 
-# Présentation de l’attribution
+# Qu’est-ce que l’attribution
 
 Cette leçon fournit une définition de l’attribution, une comparaison des méthodes d’attribution à une seule touche et à plusieurs touches et une comparaison de l’attribution entre les entreprises B2C et B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421967/?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}

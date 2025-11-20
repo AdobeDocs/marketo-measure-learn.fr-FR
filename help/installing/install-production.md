@@ -1,6 +1,6 @@
 ---
 title: Installation (instance de production)
-description: Découvrez comment installer une instance de production de [!DNL Marketo Measure].
+description: Découvrez comment installer une instance de production d’ [!DNL Marketo Measure].
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -11,13 +11,13 @@ exl-id: c868532d-b6f9-4236-b431-d614189a9749
 feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 31%
+source-wordcount: '20'
+ht-degree: 35%
 
 ---
 
-# Installation de [!DNL Marketo Measure] (instance de production)
+# installation [!DNL Marketo Measure] (instance d’exploitation)
 
 Découvrez comment installer une instance de production de [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/3421818/?learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
