@@ -19,7 +19,7 @@ ht-degree: 7%
    + [Installation de Marketo Measure](/help/installing/install-production.md)
    + [Modifier les jeux d’autorisations](/help/installing/modify-permission-sets-production.md)
    + [Partager et masquer des rapports et des tableaux de bord](/help/installing/sharing-reports-production.md)
-   + [Créer le compte  [!DNL Marketo Measure] ](/help/installing/creating-marketo-measure-account-production.md)
+   + [Créer le compte  [!DNL Marketo Measure] &#x200B;](/help/installing/creating-marketo-measure-account-production.md)
 + Intégration {#onboarding}
    + Meilleures pratiques {#best-practices}
       + [Revoir Les Paramètres De Création De Rapports (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
@@ -105,7 +105,7 @@ ht-degree: 7%
       + [Balisage UTM](/help/definitions/utm-parameters/utm-tagging.md)
    + Marketing basé sur les comptes {#account-based-marketing}
       + [Présentation de [!UICONTROL Marketing basé sur les comptes]](/help/definitions/account-based-marketing/abm-overview.md)
-      + [[!UICONTROL  Comptes par score d’engagement ]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
+      + [[!UICONTROL &#x200B; Comptes par score d’engagement &#x200B;]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
       + [Rapport [!UICONTROL Comptes avec leads et contacts]](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
       + [Rapport [!UICONTROL Points de contact par compte]](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + Phase de boomerang {#boomerang-stage}
