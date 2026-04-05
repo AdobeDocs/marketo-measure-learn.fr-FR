@@ -1,6 +1,6 @@
 ---
 title: Objet de point de contact d’attribution [!DNL Marketo Measure]
-description: En savoir plus sur les points  [!DNL Marketo Measure] [!UICONTROL  contact d’attribution].
+description: En savoir plus sur les points  [!DNL Marketo Measure] [!UICONTROL &#x200B; contact d’attribution].
 role: User
 level: Beginner
 doc-type: Feature Video
