@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Examen des paramètres CRM - Leads, contacts et opportunités.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453721/?captions=fre_fr&learn=on){transcript=true}

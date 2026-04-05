@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez une répartition de la relation entre les objets CRM standard et les objets et champs personnalisés [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347218/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422221/?captions=fre_fr&learn=on){transcript=true}

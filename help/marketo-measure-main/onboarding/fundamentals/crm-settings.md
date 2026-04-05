@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Révision du paramètre CRM dans Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451740/?captions=fre_fr&learn=on){transcript=true}

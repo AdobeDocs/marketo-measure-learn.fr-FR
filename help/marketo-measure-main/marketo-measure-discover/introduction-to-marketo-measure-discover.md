@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez un aperçu général de [!UICONTROL Discover] et de ses différents tableaux. Dans cette leçon, découvrez les cas d’utilisation courants des rapports pour plusieurs des tableaux de bord et mosaïques Discover.
 
->[!VIDEO](https://video.tv.adobe.com/v/347206/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422342/?captions=fre_fr&learn=on){transcript=true}

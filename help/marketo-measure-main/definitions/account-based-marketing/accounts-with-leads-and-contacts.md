@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Ce tutoriel présente le rapport [!UICONTROL Compte et contacts de leads] ainsi que les informations relatives à ces deux objets et la manière dont il les connecte.
 
->[!VIDEO](https://video.tv.adobe.com/v/347220/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422322/?captions=fre_fr&learn=on){transcript=true}

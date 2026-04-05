@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Ce tutoriel présente brièvement l’ABM, y compris une définition de l’ABM et de ce qui constitue le niveau d’engagement prédictif. Découvrez comment réfléchir au score d’engagement prédictif.
 
->[!VIDEO](https://video.tv.adobe.com/v/347217/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422327/?captions=fre_fr&learn=on){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez une répartition de la relation entre l’objet de prospect et l’objet de point de contact [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422217/?captions=fre_fr&learn=on){transcript=true}

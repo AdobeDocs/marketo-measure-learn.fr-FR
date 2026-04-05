@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Découvrez le fonctionnement [!DNL Marketo Measure] balisage et comment utiliser une plateforme de balisage intégrée.
 
->[!VIDEO](https://video.tv.adobe.com/v/347200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422334/?captions=fre_fr&learn=on){transcript=true}

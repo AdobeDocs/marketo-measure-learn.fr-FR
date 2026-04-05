@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ce rapport se concentre sur la partie supérieure à la partie centrale du funnel marketing. Une fois le rapport créé, vous serez en mesure de voir quels canaux génèrent le plus grand nombre d’opportunités, afin que vous puissiez investir dans ces canaux marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443742/?captions=fre_fr&learn=on)

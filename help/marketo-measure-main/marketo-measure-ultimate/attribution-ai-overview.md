@@ -20,4 +20,4 @@ ht-degree: 68%
 
 Découvrez comment l’IA dédiée à l’attribution d’Adobe améliore la mesure marketing B2B avec une modélisation AI/ML sophistiquée, offrant des informations d’attribution précises et éliminant les biais pour une analyse précise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447223/?captions=fre_fr&learn=on)

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Regardez un aperçu de ce qu’est un UTM ainsi que de sa configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/347199/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422338/?captions=fre_fr&learn=on){transcript=true}

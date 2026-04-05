@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment [!DNL Marketo Measure] collecte et traite des données à l’aide de différentes entrées pour fournir des données d’attribution.
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421343/?captions=fre_fr&learn=on){transcript=true}

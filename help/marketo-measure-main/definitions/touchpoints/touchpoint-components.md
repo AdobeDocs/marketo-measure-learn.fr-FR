@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Obtenez une répartition des différents composants des points de contact et leur définition. Cet exemple montre comment rompre les composants des BT et des MTD.
 
->[!VIDEO](https://video.tv.adobe.com/v/347213/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437614/?captions=fre_fr&learn=on){transcript=true}

@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Présentation générale du [!UICONTROL score du compte par engagement].  Ce tutoriel décrit les mesures qui entrent dans cette note et le rapport qui y est associé.
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432133/?captions=fre_fr&learn=on){transcript=true}

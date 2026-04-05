@@ -20,4 +20,4 @@ ht-degree: 7%
 
 Cette leçon décrit [!DNL Marketo Measure] Data Warehouse et fournit des exemples illustrant les données disponibles et les rapports que vous pouvez créer à l’aide de l’outil de BI de votre choix.
 
->[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421936/?captions=fre_fr&learn=on){transcript=true}

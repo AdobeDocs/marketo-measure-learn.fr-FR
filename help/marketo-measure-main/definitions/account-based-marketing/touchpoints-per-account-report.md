@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Ce tutoriel explique comment créer un rapport de point de contact sur un compte.
 
->[!VIDEO](https://video.tv.adobe.com/v/347226/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422314/?captions=fre_fr&learn=on){transcript=true}

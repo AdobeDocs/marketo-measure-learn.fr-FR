@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez l’objet Personne [!DNL Marketo Measure] et comment il crée une recherche entre les objets Lead et Contact.
 
->[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422225/?captions=fre_fr&learn=on){transcript=true}

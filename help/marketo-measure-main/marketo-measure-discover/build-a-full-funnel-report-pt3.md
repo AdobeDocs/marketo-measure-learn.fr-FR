@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dans ce rapport, nous jetons un coup d’œil au rapport funnel complet. Ce rapport Discover suivra du début à la fin quels canaux ont été engagés, puis attribuera des opportunités et/ou des revenus à ces canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443753/?captions=fre_fr&learn=on){transcript=true}

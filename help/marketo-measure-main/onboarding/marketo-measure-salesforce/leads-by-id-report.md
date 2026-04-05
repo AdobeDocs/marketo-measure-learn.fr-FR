@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon décrit un rapport Lead par ID dans Salesforce CRM
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421928/?captions=fre_fr&learn=on){transcript=true}

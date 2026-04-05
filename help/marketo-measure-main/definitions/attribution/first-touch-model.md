@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette vidéo fournit une explication détaillée du modèle Première touche.
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421373/?captions=fre_fr&learn=on){transcript=true}

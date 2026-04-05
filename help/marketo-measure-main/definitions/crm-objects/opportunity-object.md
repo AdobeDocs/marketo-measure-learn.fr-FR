@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Regardez une répartition de la relation entre [!DNL Marketo Measure] et l’objet d’opportunité.
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421954/?captions=fre_fr&learn=on){transcript=true}

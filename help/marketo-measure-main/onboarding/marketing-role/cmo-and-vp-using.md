@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon offre une démonstration rapide de la manière dont les directeurs marketing et autres responsables marketing peuvent utiliser le [!DNL Marketo Measure] dans leur rôle professionnel.
 
->[!VIDEO](https://video.tv.adobe.com/v/347190/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422252/?captions=fre_fr&learn=on){transcript=true}

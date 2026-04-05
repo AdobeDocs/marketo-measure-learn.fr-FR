@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Cette vidéo présente un rapport de la partie supérieure de funnel qui vous indique si, Marketo Measure effectue le suivi, si vous générez des prospects et si la configuration de votre canal a été correctement effectuée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441782/?captions=fre_fr&learn=on){transcript=true}

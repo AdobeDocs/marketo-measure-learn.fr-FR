@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette vidéo répartit la relation entre l’objet de contact et l’objet de point de contact [!DNL Marketo Measure] et l’objet de point de contact d’attribution [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347231/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422213/?captions=fre_fr&learn=on){transcript=true}

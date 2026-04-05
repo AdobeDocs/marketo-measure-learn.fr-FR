@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon traite du mappage des canaux hors ligne à [!DNL Marketo Measure] avec l’objet Salesforce Campaign et le champ Types de campagne .
 
->[!VIDEO](https://video.tv.adobe.com/v/347249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422239/?captions=fre_fr&learn=on){transcript=true}

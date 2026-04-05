@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Le tableau de bord de présentation du chiffre d’affaires fournit des informations sur le chiffre d’affaires total généré par votre CRM, ce qui permet de mieux comprendre le rôle de vos stratégies marketing. Il donne un aperçu de la manière dont le marketing influence votre chiffre d’affaires global et contribue à la conclusion réussie des transactions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446355/?captions=fre_fr&learn=on){transcript=true}

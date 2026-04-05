@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Le tableau de bord du retour sur investissement offre aux marketeurs une vue granulaire des retours sur investissement sur l’ensemble des canaux, sous-canaux et campagnes. Il ventile méticuleusement les modèles de coûts et de revenus, tout en mettant en évidence des mesures telles que le coût par lead, les affaires et les opportunités, afin de garantir une compréhension globale de l’attribution marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449466/?captions=fre_fr&learn=on){transcript=true}

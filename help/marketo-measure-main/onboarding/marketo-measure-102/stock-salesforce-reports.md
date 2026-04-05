@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon couvre les rapports CRM Salesforce standard préconfigurés et les objets de données inclus dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421985/?captions=fre_fr&learn=on){transcript=true}

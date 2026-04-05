@@ -18,4 +18,4 @@ ht-degree: 8%
 
 Obtenez un aperçu des modèles d’attribution prêts à l’emploi dans [!DNL Marketo Measure]. Découvrez la différence entre les modèles à une seule touche et les modèles à plusieurs touches.
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421788/?captions=fre_fr&learn=on){transcript=true}

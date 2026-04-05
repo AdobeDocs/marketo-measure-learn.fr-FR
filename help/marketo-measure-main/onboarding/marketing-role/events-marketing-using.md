@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon offre une démonstration rapide de la manière dont les équipes marketing événements peuvent utiliser [!DNL Marketo Measure] dans leur fonction.
 
->[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422346/?captions=fre_fr&learn=on){transcript=true}

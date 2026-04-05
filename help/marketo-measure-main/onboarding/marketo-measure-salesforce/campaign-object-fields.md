@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon couvre les champs d’objet de campagne CRM Salesforce que [!DNL Marketo Measure] utilise pour mapper les campagnes et les membres de campagne aux canaux marketing. Il est important de comprendre le rôle de ces objets Campaign lorsque vous gérez et mappez vos canaux hors ligne dans [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422243/?captions=fre_fr&learn=on){transcript=true}

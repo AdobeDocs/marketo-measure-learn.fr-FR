@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon couvre les rapports d’attribution personnalisés dans Salesforce CRM.
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421942/?captions=fre_fr&learn=on){transcript=true}
