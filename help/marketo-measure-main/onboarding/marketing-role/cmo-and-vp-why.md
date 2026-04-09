@@ -9,8 +9,7 @@ jira: KT-11667
 thumbnail: 347173.jpeg
 exl-id: beedf32c-6806-4cc3-9f68-332148216f52
 feature: Fundamentals
-hidefromtoc: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
@@ -21,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon résume les principales fonctionnalités et la valeur de [!DNL Marketo Measure] pour les directeurs marketing et autres responsables marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422201/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

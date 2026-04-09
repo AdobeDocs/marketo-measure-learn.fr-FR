@@ -9,8 +9,7 @@ jira: KT-11669
 thumbnail: 347169.jpeg
 exl-id: bd6b0789-40c7-43c1-abc0-0c2a7b1cde8c
 feature: Fundamentals
-hidefromtoc: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -21,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon résume les principales fonctionnalités et la valeur de [!DNL Marketo Measure] pour les équipes de génération de la demande et de médias payants.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422248/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}
