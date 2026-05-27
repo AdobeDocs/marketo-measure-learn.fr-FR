@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette leçon résume les principales fonctionnalités et la valeur de [!DNL Marketo Measure] pour les spécialistes du marketing par e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421979/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}
