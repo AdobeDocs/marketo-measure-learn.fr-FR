@@ -1,23 +1,35 @@
 ---
-title: Utilisation d [!DNL Marketo Measure] as a Demand pour les spécialistes du marketing de médias générés/payants
-description: Cette leçon offre une démonstration rapide de la manière dont les équipes de génération de la demande et de médias payants peuvent utiliser dans leur rôle  [!DNL Marketo Measure]  travail.
+title: Utilisation de [!DNL Marketo Measure] en tant que marketeur de médias payants/générateurs à la demande
+description: Cette leçon offre une démonstration rapide de la manière dont les équipes de génération de la demande et de médias payants peuvent utiliser le [!DNL Marketo Measure] dans leur rôle de travail.
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-01-06T00:00:00Z
+last-substantial-update: 2023-01-06T00:00:00.000Z
 jira: KT-11670
 thumbnail: 347171.jpeg
 exl-id: 596f2f85-b946-4a6d-9b0a-6cc2456c17e3
 feature: Fundamentals
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+product_v2:
+  - id: e6fc4016-a972-4f36-8c30-a6a5f82ad0c8
+    internal-label: Marketo Measure
+feature_v2:
+  - id: 8210190a-677a-5286-8428-d07007b1edde
+    internal-label: Fundamentals
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 39c9852c2f3da60da121510eccbb64441a6a016c
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
-
 ---
-
 # Utilisation de [!DNL Marketo Measure] en tant que marketeur de médias payants/générateurs à la demande
 
 Cette leçon offre une démonstration rapide de la manière dont les équipes de génération de la demande et de médias payants peuvent utiliser le [!DNL Marketo Measure] dans leur rôle de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422205/?captions=fre_fr&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347171/?learn=on){transcript=true}
