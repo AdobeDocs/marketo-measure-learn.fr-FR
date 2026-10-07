@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Présentation des paramètres Canal et Intégration dans Marketo Measure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452373/?captions=fre_fr&learn=on){transcript=true}

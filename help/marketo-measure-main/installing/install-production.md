@@ -30,4 +30,4 @@ ht-degree: 70%
 
 Découvrez comment installer une instance de production de [!DNL Marketo Measure].
 
->[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421818/?captions=fre_fr&learn=on){transcript=true}
