@@ -16,7 +16,7 @@ workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 ---
-# [!UICONTROL  Comptes par score d’engagement ]
+# [!UICONTROL &#x200B; Comptes par score d’engagement &#x200B;]
 
 Présentation générale du [!UICONTROL score du compte par engagement].  Ce tutoriel décrit les mesures qui entrent dans cette note et le rapport qui y est associé.
 
